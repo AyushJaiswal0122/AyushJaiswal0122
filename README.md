@@ -20,10 +20,25 @@
 >>> "they do not want to explain what they did."
 
 ---
-## About Me
+## A Little Bit About Me and My Interests
 
-Hey My Name is Ayush Jaiswal, I'm a final year student at Pune University.I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
+```yaml
+name: Ayush Jaiswal
+located_in: Pune, India
+education:
+  [
+    "Self Taught Developer & Designer",
+    "Bachelor's in Information Technology",
+  ]
 
+fields_of_interests:
+  [
+    "Frontend Developer",
+    "JavaScript",
+    "Java",
+    "UI Designing",
+  ]
+```
 
 ## Coding Profiles
 <a href="https://www.codechef.com/users/ayush0122">
